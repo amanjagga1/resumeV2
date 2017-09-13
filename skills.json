@@ -1,0 +1,40 @@
+{"skills": {
+    "languages":{
+      "Javascript": 4.5,
+      "HTML": 4.5,
+      "CSS": 4,
+      "Java": 4,
+      "SQL": 3,
+      "Python": 3,
+      "Php": 2
+    },
+    "framewroks": {
+      "Vue Js": 3.5,
+	  "Bootstrap":3.5,
+	  "Bulma": 4,
+      "Spring": 3,
+      "Hibernate": 3,
+      "GIT": 4.5,
+      "Junit": 3,
+      "Maven": 4,
+      "AWS": 4
+    }
+  },
+  "experiences": [
+		{
+            "startDate": "Dec 2014",
+            "company": "Amadeus Software Pvt. Ltd.",
+            "description": "Amadeus is into Travels's domain and its largest business is from GDS(Global Distribution System) of Air, Hotel,Rail etc. I was part of hotel's UI module for developing new features for the application while working in agile.Revamped traveler,payment and confirmation page of the application using in house javascript framework for usability and performance."
+        },
+        {
+            "startDate": "Jan 2014",
+            "company": "Innovaccer India Pvt. Ltd.",
+            "description": "A startup that works on data mining,analyzing and visualizing mainly for education and research institutes.At Innovaccer I was mainly responsible for data crawling,parsing and mining using various techniques.I extracted various datasets for news,Stocks and other financial data.As part of data mining,I also worked on a Big data project extracting New York Stock exchange data from dumps in real time. I also worked on applications involving FaceBook and Google API's."
+        },
+		{
+            "startDate": "June 2010",
+            "company": "Thapar University",
+            "description": "B.E in Computer Engineering from one of the top colleges of India. Developed a web forum which went live and gained 1000+ users and newspaper columns in a very short span"
+        }  
+    ]
+}
